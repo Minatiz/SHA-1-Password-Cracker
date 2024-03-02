@@ -11,4 +11,4 @@ cracked_password2 = password_cracker.crack_sha1_hash(
 print(cracked_password2)
 
 # Run unit tests automatically
-main(module = "test_module", exit = False)
+main(module="test_module", exit=False)
